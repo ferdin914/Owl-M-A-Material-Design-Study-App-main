@@ -1,5 +1,5 @@
 # Owl-M-A-Material-Design-Study-App-main
 
-Google Developer profile link :https://g.dev/Owl-M-A-Material-Design-Study
 
-video link :
+
+video link :https://drive.google.com/file/d/1QvSB2gpw-H9cnSJ4IcjuMqZnhTR_YIEd/view?usp=drive_link
